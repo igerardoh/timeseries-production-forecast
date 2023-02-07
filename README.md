@@ -1,5 +1,7 @@
 # timeseries-production-forecast
- 
+
+Values on table below are presented as MAPE score (lower is better)
+
 | Model                | Univariate (month) | Univariate (daily) | PastCovar (month) | PastCovar (daily) |
 |----------------------|--------------------|--------------------|-------------------|-------------------|
 | ExponentialSmoothing | 4.16               | 3.62               | --                | --                |
